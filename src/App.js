@@ -4,10 +4,6 @@ import './App.css';
 import Navbar from './components/Navbar';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import About from './components/About';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
 
 
 function App() {
